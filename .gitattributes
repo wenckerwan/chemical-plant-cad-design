@@ -1,0 +1,2 @@
+# Preserve bytes required by the release checksum manifest.
+portable/** -text whitespace=cr-at-eol

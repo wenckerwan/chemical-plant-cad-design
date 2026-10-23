@@ -1,0 +1,4 @@
+interface:
+  display_name: "化工设计与CAD制图"
+  short_description: "化工厂区总图、工艺流程、设备管道布置与CAD绘图校审规范"
+  default_prompt: "使用 $chemical-plant-cad-design，按我的设计阶段和已有资料完成化工设计或制图任务，并给出检查结果。"
